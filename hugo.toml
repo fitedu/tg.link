@@ -16,7 +16,7 @@ disableKinds = ["taxonomy", "term"]
   links = [
     # { booking = { href = "https://fhforum.ru/", text = "Сайт" } },
     # { booking = { href = "https://vk.com/russianinstituteoffitness", text = "VK" } },
-     { telegram = "https://https://t.me/rifedu_official" },
+     { telegram = "https://t.me/rifedu_official" },
     # { whatsapp = "https://wa.me/+79266074000" },
     # { email = "mailto:info@fitinstitute.ru" },
     # { link = "https://link-to-some-website.com/" },
