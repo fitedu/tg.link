@@ -2,7 +2,7 @@ baseURL = "https://ffh25.pages.dev/"
 languageCode = "ru"
 defaultContentLanguage = "en"
 
-title = "Наши контакты"
+title = "Telegram"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 enableEmoji = true
@@ -10,15 +10,15 @@ disableKinds = ["taxonomy", "term"]
 
 [params.author]
   name = "Fitness Holding Forum 2025"
-  headline = "Связаться"
+  headline = "Подписаться"
   image = "/img/author.png"
 
   links = [
-     { booking = { href = "https://fhforum.ru/", text = "Сайт" } },
-     { booking = { href = "https://vk.com/russianinstituteoffitness", text = "VK" } },
+    # { booking = { href = "https://fhforum.ru/", text = "Сайт" } },
+    # { booking = { href = "https://vk.com/russianinstituteoffitness", text = "VK" } },
      { telegram = "https://https://t.me/rifedu_official" },
-     { whatsapp = "https://wa.me/+79266074000" },
-     { email = "mailto:info@fitinstitute.ru" },
+    # { whatsapp = "https://wa.me/+79266074000" },
+    # { email = "mailto:info@fitinstitute.ru" },
     # { link = "https://link-to-some-website.com/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
